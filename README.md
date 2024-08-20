@@ -8,3 +8,6 @@ The app could do the basic tip calculation function which tip amount could be ad
 Clone the repository:
 ```bash
 git clone https://github.com/RuiyuHuang50/Tip-Calculator
+```
+## Demo
+![App Demo](https://github.com/RuiyuHuang50/Tip-Calculator/blob/main/Tipcalculator-demo.gif)
